@@ -14,9 +14,10 @@ import Tools5 from "/assets/tools/bootstrap.png";
 import Tools6 from "/assets/tools/js.png";
 import Tools7 from "/assets/tools/nodejs.png";
 import Tools8 from "/assets/tools/github.png";
-import Tools9 from "/assets/tools/ai.png";
-import Tools10 from "/assets/tools/canva.png";
+import Tools9 from "/assets/tools/mysql.jpg";
+import Tools10 from "/assets/tools/python.jpeg";
 import Tools11 from "/assets/tools/figma.png";
+import Tools12 from "/assets/tools/laravel.png";
 
 export const listTools = [
   {
@@ -78,15 +79,15 @@ export const listTools = [
   {
     id: 9,
     gambar: Tools9,
-    nama: "Adobe Illustrator",
-    ket: "Design App",
+    nama: "MySQL",
+    ket: "Database",
     dad: "900",
   },
   {
     id: 10,
     gambar: Tools10,
-    nama: "Canva",
-    ket: "Design App",
+    nama: "Python",
+    ket: "Languange",
     dad: "1000",
   },
   {
@@ -95,6 +96,13 @@ export const listTools = [
     nama: "Figma",
     ket: "Design App",
     dad: "1100",
+  },
+  {
+    id: 12,
+    gambar: Tools12,
+    nama: "Laravel",
+    ket: "Framework",
+    dad: "1200",
   },
 ];
 

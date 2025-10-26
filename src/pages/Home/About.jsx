@@ -7,7 +7,7 @@ const About = () => {
             <div className="mt-32 py-10" id="about">
                 <div className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
                     <img src={me} alt="Image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy" />
-                    <p className="text-base/loose mb-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas placeat eius recusandae, voluptatem ut quae deleniti repellat sint, provident laudantium inventore neque dolore fugiat tenetur beatae aut molestiae doloribus! Perspiciatis quibusdam quod officiis impedit dolores ipsum ea, alias iure neque modi possimus nihil fuga earum, provident ullam ipsa quae ab!</p>
+                    <p className="text-base/loose mb-10">Selama ini, saya telah mengerjakan tiga proyek berbasis web, yaitu website penjualan mobil menggunakan HTML, CSS, dan JavaScript; website toko baju online dengan React, Laravel, dan MySQL; serta website prediksi umur menggunakan Flask, HTML, CSS, JavaScript, dan model machine learning. Dari ketiga proyek tersebut, saya belajar banyak tentang pengembangan perangkat lunak dari sisi front-end hingga back-end, serta bagaimana membangun sistem yang fungsional, menarik, dan bermanfaat bagi pengguna.</p>
                     <div className="flex items-center justify-between">
                         <img src={me} alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
                         <div className="flex items-center gap-6 ">
