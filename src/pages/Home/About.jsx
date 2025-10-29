@@ -7,11 +7,13 @@ const About = () => {
             <div className="mt-32 py-10" id="about">
                 <div className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
                     <img src={me} alt="Image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy" />
-                    <p className="text-base/loose mb-10">Selama ini, saya telah mengerjakan tiga proyek berbasis web, yaitu website penjualan mobil menggunakan HTML, CSS, dan JavaScript; website toko baju online dengan React, Laravel, dan MySQL; serta website prediksi umur menggunakan Flask, HTML, CSS, JavaScript, dan model machine learning. Dari ketiga proyek tersebut, saya belajar banyak tentang pengembangan perangkat lunak dari sisi front-end hingga back-end, serta bagaimana membangun sistem yang fungsional, menarik, dan bermanfaat bagi pengguna.</p>
+                    <p className="text-base/loose mb-10">Saya adalah mahasiswa Computer Science yang senang membangun sesuatu yang benar-benar berfungsi.
+                        Selama kuliah, saya telah mengerjakan beberapa proyek web, seperti website penjualan mobil menggunakan HTML, CSS, dan JavaScript; website toko baju online dengan React, Laravel, dan MySQL; aplikasi prediksi umur menggunakan Flask dan model machine learning; serta proyek House Price Prediction yang membandingkan performa algoritma XGBoost, LightGBM, dan CatBoost.
+                        Dari setiap proyek tersebut, saya terbiasa belajar teknologi baru, memahami cara kerja sistem dari sisi front-end hingga back-end, dan memastikan hasil akhirnya benar-benar bisa digunakan sesuai tujuannya.</p>
                     <div className="flex items-center justify-between">
                         <img src={me} alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
                         <div className="flex items-center gap-6 ">
-                            <h1 className="text-4xl mb-1">3 <span className="text-violet-500">+</span></h1>
+                            <h1 className="text-4xl mb-1">4 <span className="text-violet-500">+</span></h1>
                             <p>Proyek Selesai</p>
                         </div>
                     </div>

@@ -10,10 +10,10 @@ const Footer = () => {
                 <a href="#project">Project</a>
             </div>
             <div className="flex items-center gap-3">
-                <a href="#">
+                <a href="https://www.instagram.com/hashitt_/">
                     <img src={instagram} className="w-8 h-8" alt="" />
                 </a>
-                <a href="#">
+                <a href="https://github.com/Syidd">
                     <img src={github} className="w-8 h-8" alt="" />
                 </a>
             </div>
