@@ -12,7 +12,7 @@ import Tools3 from "/assets/tools/rapidminer logo.png";
 import Tools4 from "/assets/tools/tailwind.png";
 import Tools5 from "/assets/tools/bootstrap.png";
 import Tools6 from "/assets/tools/js.png";
-import Tools7 from "/assets/tools/nodejs.png";
+import Tools7 from "/assets/tools/docker.png";
 import Tools8 from "/assets/tools/github.png";
 import Tools9 from "/assets/tools/mysql.jpg";
 import Tools10 from "/assets/tools/python.jpeg";
@@ -62,13 +62,13 @@ export const listTools = [
     ket: "Language",
     dad: "600",
   },
-  // {
-  //   id: 7,
-  //   gambar: Tools7,
-  //   nama: "Node JS",
-  //   ket: "Javascript Runtime",
-  //   dad: "700",
-  // },
+  {
+    id: 7,
+    gambar: Tools7,
+    nama: "Docker",
+    ket: "Container",
+    dad: "700",
+  },
   // {
   //   id: 8,
   //   gambar: Tools8,
